@@ -1,0 +1,19 @@
+Movie Success Prediction - Model Results
+----------------------------------------
+
+Model Used: Random Forest Regressor
+
+Features Used:
+- Audience score %
+- Rotten Tomatoes %
+- Worldwide Gross
+
+Evaluation Metrics:
+MAE  : 5.0249
+RMSE : 16.3158
+R2   : -0.0905
+
+Feature Importance:
+Audience score %: 0.1967
+Rotten Tomatoes %: 0.2508
+Worldwide Gross: 0.5525
